@@ -1,0 +1,9 @@
+perso = {}
+perso.nom = "Bob"
+perso.race = "humain"
+perso.classe = "barbare"
+perso.capacite = "pyro"
+perso.vie = 100
+perso.inventaire = {}
+perso.inventaire.potionVie = 5
+perso.inventaire.potionMana = 2
